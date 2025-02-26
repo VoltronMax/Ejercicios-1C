@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+32
+'SEÑOR@ USUARIO, DIGITE SU EDAD'
+5
+1
+2
+ed
+4
+1
+51
+'SEÑOR USUARIO, DIGITE EL VALOR TOTAL DE SU COMPRA'
+5
+1
+3
+val
+7
+0
+1
+5
+ed>50
+4
+1
+23
+' VALOR A PAGAR: ', val
+13
+6
+2
+4
+desc
+9
+val*(0.1)
+3
+tot
+8
+val-desc
+4
+1
+60
+' UD HA RECIBIDO UN DESCUENTO DEL 10%. TOTAL A PAGAR: ', tot
+13
+1

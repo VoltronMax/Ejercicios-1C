@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+59
+'BIENVENIDO SEÑOR USUARIO, ¿CUANTOS ML DE PERFUME LLEVARA?'
+5
+1
+2
+ml
+6
+3
+3
+Pml
+7
+4500*ml
+3
+iva
+8
+pml*0.19
+3
+tot
+7
+pml+iva
+4
+1
+50
+'  SEÑOR@ CLIENTE, SU VALOR A PAGAR ES DE  ' , tot
+1

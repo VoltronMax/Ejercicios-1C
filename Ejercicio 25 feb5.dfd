@@ -1,0 +1,49 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+41
+'HOLA ESTIMADO CLIENTE, DIGITE SU NOMBRE'
+5
+1
+1
+x
+4
+1
+51
+'HOLA  '  ,  x,  '  EL VALOR DE SU COMPRA ES DE:  '
+5
+1
+1
+z
+4
+1
+48
+' SEÑOR@ '   ,   x  ,  ' SU DESCUENTO SERA DE: '
+5
+1
+1
+y
+6
+3
+9
+Descuento
+5
+y/100
+5
+Total
+13
+z*(Descuento)
+5
+Pagar
+7
+z-Total
+4
+1
+67
+'SEÑOR@  '  ,  x  ,  '  USTED DEBE PAGAR  ' , Pagar ,   '  PESOS  '
+1

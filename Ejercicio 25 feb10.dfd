@@ -1,0 +1,30 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+20
+'Valor de su compra'
+5
+1
+5
+valor
+7
+0
+1
+12
+valor>180000
+4
+1
+54
+'El valor de su compra con envio es de: ', valor+20000
+13
+4
+1
+39
+'¡Su envio es gratis!. Total: ' , valor
+13
+1
