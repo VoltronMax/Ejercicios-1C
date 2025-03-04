@@ -1,0 +1,30 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+131
+'Bienvenido señor usuario, usted esta ingresando en una pagina apta unicamente para mayores de edad, digite su edad para continuar'
+5
+1
+4
+Edad
+7
+0
+1
+8
+Edad>=18
+4
+1
+111
+'Señor usuario, usted no tiene la edad requerida para continuar en este sitio, abstengase de volver a ingresar'
+13
+4
+1
+43
+'Bienvenido señor usuario, puede continuar'
+13
+1

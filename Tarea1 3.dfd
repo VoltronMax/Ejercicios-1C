@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+110
+'Supermercado Kolsubsidio le da la bienvenida, por favor, ingrese su nombre para continuar con la facturacion'
+5
+1
+1
+x
+4
+1
+51
+'Señor ' ,  x  ,' digite el valor de sus productos'
+5
+1
+4
+y, z
+6
+3
+1
+a
+3
+y+z
+3
+iva
+6
+a*0.19
+3
+tot
+5
+a+iva
+4
+1
+82
+'Señor '  ,  x ,  ' El valor total de su compra incluyendo el iva es de: '  ,  tot
+1
