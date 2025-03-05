@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+49
+'Señor usuario, digite el valor de dos productos'
+5
+1
+4
+x, y
+6
+3
+5
+desc1
+10
+x-(x*0.10)
+5
+desc2
+10
+y-(y*0.20)
+3
+tot
+11
+desc1+desc2
+4
+1
+42
+'El valor total de su compra es de: ', tot
+1

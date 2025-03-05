@@ -1,0 +1,72 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+49
+'Digite el numero de almuerzos que desea comprar'
+5
+1
+1
+x
+6
+3
+4
+Sald
+4
+4000
+4
+Vend
+3
+299
+3
+Lim
+3
+300
+7
+0
+1
+4
+x>=1
+4
+1
+22
+'Error, no sea payaso'
+13
+7
+0
+1
+10
+x+Vend>Lim
+6
+1
+6
+Compra
+13
+Sald-(x*1500)
+7
+0
+1
+9
+Compra<=0
+4
+1
+41
+'Puede comprar, su saldo es de: ', compra
+13
+4
+1
+39
+'No puede comprar, saldo insuficieinte'
+13
+13
+4
+1
+76
+'No puede comprar almuerzos, ya hemos llegado al limite de almuerzos de hoy'
+13
+13
+1

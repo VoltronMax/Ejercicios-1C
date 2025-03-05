@@ -1,0 +1,69 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+60
+'Usuario, digite su sexo, 1 para masculino, 2 para femenino'
+5
+1
+4
+sexo
+4
+1
+30
+'Digite el valor de su compra'
+5
+1
+4
+Comp
+7
+0
+1
+11
+Comp>100000
+4
+1
+37
+'El valor de su compra es de: ', Comp
+13
+7
+0
+1
+6
+sexo=1
+6
+2
+4
+Muj1
+16
+Comp-(Comp*0.10)
+4
+Totm
+4
+Muj1
+4
+1
+86
+'Usted señorita, recibio un descuento del 10%. El valor de su compra ahora es: ', Totm
+13
+6
+2
+5
+Homb1
+16
+Comp-(Comp*0.20)
+4
+Toth
+5
+Homb1
+4
+1
+102
+'Ud es un hombre privilegiado, recibio un descuento del 20% y su compra quedo con un valor de: ', Toth
+13
+13
+1
