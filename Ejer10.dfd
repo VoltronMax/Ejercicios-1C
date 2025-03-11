@@ -1,0 +1,38 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+121
+'Señor usuario, verificaremos la valides de su contraseña, ingrese con numeros cuantos caracteres contiene su contraseña'
+5
+1
+10
+Caracteres
+4
+1
+35
+'Contiene @?. 1 para si, 2 para no'
+5
+1
+1
+x
+7
+0
+1
+20
+Caracteres>=8 or x=1
+4
+1
+37
+'Su contraseña no es valida o segura'
+13
+4
+1
+34
+'Su contraseña es valida y segura'
+13
+1

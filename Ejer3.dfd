@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+34
+'Digite los lados de su triangulo'
+5
+1
+7
+a, b, c
+7
+0
+1
+11
+a=b and b=c
+7
+0
+1
+17
+a=b or a=c or b=c
+4
+1
+26
+'Su triangulo es escaleno'
+13
+4
+1
+27
+'Su triangulo es isosceles'
+13
+13
+4
+1
+28
+'Su triangulo es equilatero'
+13
+1

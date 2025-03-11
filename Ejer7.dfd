@@ -1,0 +1,30 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+51
+'Señor, digite su edad y numero de años trabajados'
+5
+1
+10
+edad, años
+7
+0
+1
+18
+edad>65 or años>30
+4
+1
+32
+'Usted aun no puede pensionarse'
+13
+4
+1
+39
+'Felicidades, usted se puede pensionar'
+13
+1

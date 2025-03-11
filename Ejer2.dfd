@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+'Señor usuario, digite su edad'
+5
+1
+4
+edad
+7
+0
+1
+7
+edad<=0
+7
+0
+1
+8
+edad>=18
+4
+1
+77
+'Usted es menor de edad y no cuenta con cedula de ciudadania. No puede votar'
+13
+4
+1
+93
+'Usted cuenta con cedula de ciudadania y la oportunidad de participar en las votaciones 2026'
+13
+13
+4
+1
+16
+'Edad no valida'
+13
+1
