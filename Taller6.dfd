@@ -1,0 +1,57 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+41
+'Digite el mes del año en el que estamos'
+5
+1
+3
+mes
+4
+1
+30
+'Digite el valor de su compra'
+5
+1
+6
+compra
+4
+1
+50
+'Digite su genero. 1 para hombre, o, 2 para mujer'
+5
+1
+6
+genero
+7
+0
+1
+33
+mes=3 or mes=5 or mes=9 or mes=12
+4
+1
+40
+'El valor de su compra es de: ' , compra
+13
+7
+0
+1
+18
+mes=3 and genero=2
+4
+1
+134
+'Felicidades, al encontrarnos en el mes  '  , mes, 'su compra recibe un descuento del 20%, dando un total de : ' , compra-(compra*0.2)
+13
+4
+1
+157
+'Felicidades, al ser usted mujer y comprar en el mes de marzo, su compra recibio una reduccion del 25%. El total de su compra es de: ' , compra-(compra*0.25)
+13
+13
+1

@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+36
+'Digite el precio de tres productos'
+5
+1
+7
+a, b, c
+6
+3
+1
+z
+5
+a+b+c
+3
+sub
+10
+z-(z*0.05)
+3
+tot
+3
+sub
+4
+1
+66
+'El valor de su compra aplicando el 5% de descuento es de: ' , tot
+1

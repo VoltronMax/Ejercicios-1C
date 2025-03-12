@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+38
+'Digite el valor de sus dos productos'
+5
+1
+4
+a, b
+6
+3
+3
+sub
+3
+a+b
+3
+iva
+8
+sub*0.19
+3
+tot
+7
+sub+iva
+4
+1
+40
+'El subtotal de su compra es de: ' , sub
+4
+1
+66
+'El iva de esta compra corresponde al 19%, eso es igual a: ' , iva
+4
+1
+51
+'El valor total a pagar de su compra es de: ' , tot
+1
